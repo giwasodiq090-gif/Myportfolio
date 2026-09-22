@@ -6,7 +6,7 @@ const Projects = () => {
         "An online learning platform where users can explore courses, search and filter courses, add courses to a wishlist, and manage enrolled courses.",
       technologies: ["Next.js", "React", "Tailwind CSS", "JavaScript"],
       image: "/images/learnscreen.png",
-      live: "YOUR_EXISTING_LEARNIFY_URL",
+      live: "https://learnify-git-main-giwasodiq090-gifs-projects.vercel.app/",
     },
     {
       title: "Portfolio Website",
