@@ -101,7 +101,7 @@ const Contact = () => {
                   href="mailto:your@email.com"
                   className="mt-1 block break-all text-blue-400 hover:text-blue-300 sm:break-normal"
                 >
-                  your@email.com
+                  giwasodiq090@gmail.com
                 </a>
               </div>
 
@@ -111,7 +111,7 @@ const Contact = () => {
                 </p>
 
                 <p className="mt-1 text-slate-300">
-                  +234 XXX XXX XXXX
+                  +234 813 665 6490
                 </p>
               </div>
 
