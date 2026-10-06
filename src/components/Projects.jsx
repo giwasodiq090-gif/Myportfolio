@@ -9,6 +9,14 @@ const Projects = () => {
       live: "https://learnify-git-main-giwasodiq090-gifs-projects.vercel.app/",
     },
     {
+      title: "ÉLANÉ",
+      description:
+        "A luxury fragrance e-commerce platform featuring product browsing, product details, shopping cart functionality, and secure Paystack payment integration.",
+      technologies: ["Next.js", "Tailwind CSS", "JavaScript", "Paystack"],
+      image: "/images/elane.png",
+      live: "https://elane-jomb9wabt-giwasodiq090-gifs-projects.vercel.app/",
+    },
+    {
       title: "Portfolio Website",
       description:
         "A modern and responsive personal portfolio website designed to showcase my skills, projects, and experience as a frontend developer.",
